@@ -1,0 +1,19 @@
+[project]
+name = "yt-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "faiss-cpu>=1.11.0.post1",
+    "google-generativeai>=0.8.5",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.27",
+    "langchain-google-genai>=2.0.10",
+    "langchain-huggingface>=0.3.1",
+    "sentence-transformers>=5.0.0",
+    "streamlit>=1.48.0",
+    "tiktoken>=0.10.0",
+    "uvicorn>=0.35.0",
+    "youtube-transcript-api>=1.2.2",
+]

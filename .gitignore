@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+yt-env/
+
+# Jupyter & Streamlit
+.ipynb_checkpoints/
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment/config
+.env
+.env.*  # for .env.local etc.
+*.secret
+*.token
+
+# FAISS or vector DB
+*.faiss
+*.index
+*.pkl
+
+# Hugging Face build files
+README.md
+*.zip
+
+# VS Code config (if using)
+.vscode/
+
+# Pycache folders nested
+**/__pycache__/
+
+# Misc
+*.log
+*.bak
