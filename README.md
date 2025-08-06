@@ -14,7 +14,6 @@ A conversational AI chatbot that allows users to interact with YouTube videos th
 
 ---
  ## 🚀 Demo
-
-    <img width="959" height="502" alt="test_01" src="https://github.com/user-attachments/assets/91c65a87-27f3-49f4-8a55-11c004d394ff" /> 
-    <img width="959" height="504" alt="test_02" src="https://github.com/user-attachments/assets/5364cf9e-0afd-4216-a777-8d5f44fc7e66" />
-    <img width="959" height="499" alt="test_03" src="https://github.com/user-attachments/assets/477a318f-8558-4b9d-8981-33fbe6c431ee" />
+  <img width="959" height="502" alt="test_01" src="https://github.com/user-attachments/assets/91c65a87-27f3-49f4-8a55-11c004d394ff" /> 
+  <img width="959" height="504" alt="test_02" src="https://github.com/user-attachments/assets/5364cf9e-0afd-4216-a777-8d5f44fc7e66" />
+  <img width="959" height="499" alt="test_03" src="https://github.com/user-attachments/assets/477a318f-8558-4b9d-8981-33fbe6c431ee" />
